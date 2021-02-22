@@ -4,6 +4,7 @@
         *fetch  
         *async  
         *await  
+        *Consumo de una api rest  
         *hooks (useEffect, useState)  
         *styledComponents  
         
